@@ -28,6 +28,8 @@ Each design is uniquely named to distinguish it, along with a version number and
     ├── vc4_panel_door_300_V03_20240730.step
     └── ...
 ```
+## Downloads
+Individual DXF and STEP files can be downloaded directly from this repository. Alternately, panel packs for each product can be downloaded at [files.ratrig.com](https://files.ratrig.com/panels/).
 
 ## License
 All files contained within this repository are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/). See LICENSE for the full details.
